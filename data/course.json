@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "African History"
+    ]
+  ],
+  "legacy_uid": "a3a5dd08-55cd-3ef8-85bf-4cfd33797c75",
+  "instructors": {
+    "content": [
+      "d9811c2c-f67a-e20a-1ff5-a89a60c2b453"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bd53e61c-6cad-73ca-ee13-130d110044d7",
+    "website": "21h-266-apartheid-and-south-africa-spring-2020"
+  },
+  "course_title": "Apartheid and South Africa",
+  "hide_download": true,
+  "course_description": "This course introduces students to the spatial, legal, economic, social and political structures that created apartheid in South Africa, and to the factors that led to the collapse of the racist order. We will examine the many forms of Black oppression and, also, the various forms of resistance to apartheid. Some of the themes we will explore include industrialization and the formation of the Black working classes; the constructions of race, ethnicities, and sexualities; land alienation and rural struggles; township poverty and violence; Black education; the African National Congress; and the Black Consciousness Movement.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.266",
+  "course_image_thumbnail": {
+    "content": "cc0caf84-c895-0e9a-2a66-402d91bbf180",
+    "website": "21h-266-apartheid-and-south-africa-spring-2020"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "255355dd-2f63-48ee-b075-78fd5f72a795",
+  "site_short_id": "21h.266-spring-2020",
+  "site_url_path": "courses/21h-266-apartheid-and-south-africa-spring-2020",
+  "title": "Course Metadata"
+}
