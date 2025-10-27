@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the course topics and key due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -52,7 +50,7 @@ _Viewing_
 
 Sonia Ruseler's CNN report on the colonization of South Africa:
 
-“[South Africa - WHY \[2/4\]\[1994\]](https://www.youtube.com/watch?v=Q8538DdiKr8&feature=related+Sonia).” YouTube. 
+“{{% resource_link "502a77ef-2d58-47f4-b441-fb38e2b79371" "South Africa - WHY [2/4][1994]" %}}.” YouTube. 
 
 
 {{< tdclose >}}

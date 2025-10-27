@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains information for the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -43,18 +41,18 @@ Final Paper
 
 Write a 2500-to-2700-word book review of one of the books listed below:
 
-Mandela, Nelson. [_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)](https://zelalemkibret.files.wordpress.com/2012/01/the-autobiography-of-nelson-mandela.pdf) Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with [Google Books](https://www.google.com/books/edition/Long_Walk_to_Freedom/RHwLqVrnXgIC?hl=en&gbpv=1)\]
+Mandela, Nelson. {{% resource_link "d8ba340e-3c27-4218-9d7f-f98ae1d04dc8" "_Long Walk to Freedom: The Autobiography of Nelson Mandela_. (PDF - 3.9MB)" %}} Back Bay Books, 1995. ISBN: 9780316548182. \[Preview with {{% resource_link "be48b804-044a-4a84-b469-d9066c8d52b4" "Google Books" %}}\]
 
 Noah, Trevor. _Born a Crime: Stories from a South African Childhood_. One World, 2019. ISBN: 9780399588198. 
 
-Peires, J. B. _The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856–7_. Indiana University Press, 1989. ISBN: 9780253205247. \[Preview with [Google Books](https://www.google.com/books/edition/The_Dead_Will_Arise/Rcqy3c0go7QC?hl=en&gbpv=1)\]
+Peires, J. B. _The Dead Will Arise: Nongqawuse and the Great Xhosa Cattle-Killing Movement of 1856–7_. Indiana University Press, 1989. ISBN: 9780253205247. \[Preview with {{% resource_link "df4c8736-a9c5-4207-984f-a6ef5d1b1be4" "Google Books" %}}\]
 
 Magona, Sindiwe. _To My Children’s Children_. Interlink Books, 2006. ISBN: 9781566566490. 
 
-Crais, Clifton, and Pamela Scully. _Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_. Princeton University Press, 2010. \[Preview with [Google Books](https://www.google.com/books/edition/Sara_Baartman_and_the_Hottentot_Venus/FDpFDwAAQBAJ?hl=en&gbpv=1)\]
+Crais, Clifton, and Pamela Scully. _Sara Baartman and the Hottentot Venus: A Ghost Story and a Biography_. Princeton University Press, 2010. \[Preview with {{% resource_link "0163070c-3d25-4b95-ab04-40c2e9a3c2bb" "Google Books" %}}\]
 
 A successful book review will explain and evaluate, with utmost brevity, the author’s main argument(s), and also assess whether the author’s evidence convincingly supports his/her thesis. Please note that this is NOT a book report; it is a critical book review and it must have a developed thesis statement. It must relate some of the author’s main points to a theme(s) in the history of apartheid. In other words, how does apartheid look when viewed from the perspective of Noah's _Born A Crime_?
 
-For additional information, see the handout [Book Reviews](https://writingcenter.unc.edu/tips-and-tools/book-reviews/) from the Writing Center at the University of North Carolina at Chapel Hill.
+For additional information, see the handout {{% resource_link "be65221a-211b-4d7b-95f3-09fdf745151d" "Book Reviews" %}} from the Writing Center at the University of North Carolina at Chapel Hill.
 
 The review is due during the final session and is worth 20% of the course grade.
